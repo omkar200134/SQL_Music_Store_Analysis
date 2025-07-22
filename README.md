@@ -5,4 +5,4 @@ best customers, most profitable cities, popular music genres by country, and art
 The analysis involves basic to advanced SQL queries using JOINs, GROUP BY, subqueries, and window functions to support marketing, 
 customer targeting, and business decision-making.
 
-## Tools Used for Execution: pgAdmin 4
+## Tool Used for Execution: pgAdmin 4
